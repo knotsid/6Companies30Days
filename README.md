@@ -3,7 +3,7 @@
 Thank you to @arsh_goyal for organizing this challenge and providing this opportunity.
 Time to Level UP!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QUnaBYKQkZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Challenge Link: https://www.youtube.com/embed/QUnaBYKQkZU
 
 Problem Sheet - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit
 
